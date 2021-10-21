@@ -1,4 +1,4 @@
-a = int(input("시험점수:"))
+a = int(input())
 
 if (90<=a<=100):
     print("A")
